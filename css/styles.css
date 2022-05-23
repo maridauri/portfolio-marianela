@@ -55,7 +55,7 @@ body {
 
 .menu a:hover{
     background-color: rgb(158, 114, 65);
-    color:rgb(0, 0, 0);
+    color:white;
     transition: ease-in .4s;
     border: none;
     border-radius: 20px;
@@ -88,6 +88,7 @@ span {
 .download-cv {
     padding: 10px 20px;
     background-color: rgb(148, 112, 71);
+    color: white;
     border: none;
     border-radius: 20px;
     margin-top: 10px;
@@ -97,6 +98,7 @@ span {
 
 .download-cv:hover {
     background-color: rgb(236, 113, 17);
+    color: #333333;
     box-shadow: none;
 }
 
@@ -165,7 +167,7 @@ span {
 .card__img {
     width: 100%;
     height: 150px;
-    background-image: url(../img/projects.jpg);
+    background-image: url(../img/animales-projects-description.jpg);
     background-size: cover;
 }
 
@@ -189,22 +191,18 @@ span {
     font-size: 1.5em;    
 }
 
-/* .card .projects-details {
-    margin: 0 auto;
-    margin: 1em;   
-    width: 70px;  
-} */
-
-.card .projects-details a {
-    text-decoration: none;  
-}
-
 .project-details-content {
     display: flex;
     width: 100%;
     justify-content: center;
     margin-top: 1em;
+    color: #333333;
+    margin-bottom: 10px;
 }
+
+
+
+
 
 
 
