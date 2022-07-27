@@ -3,7 +3,7 @@
 
 ### Página de inicio
 ![página-de-inicio](https://imgur.com/zkmW71D.jpg "página-de-inicio")
-La *página de inicio * se compone de un logo con las letras de mi nombre y apellido y una barra de navegación con su respectivo menú de opciones. 
+La *página de inicio* se compone de un logo con las letras de mi nombre y apellido y una barra de navegación con su respectivo menú de opciones. 
 Luego se encuentra una pequeña introducción con mi nombre y apellido, el puesto al que aspiro, una foto mía y finalmente un botón que te autodirijirá a un archivo PDF de mi Curriculum.
 
 ### Sobre mí
@@ -25,4 +25,4 @@ Finalmente, el botón de enviar mensaje.
 ### Píe de página
 ![pie-de-página](https://imgur.com/NgXYbgQ.jpg "pie-de-página")
 
-El pie de página se compone de mi nombre y apellido, el puesto al que aspiro y tres iconos; de Instagram, Twitter y Linkedln que te direccionará al perfil de dichas redes sociales.
+El *pie de página* se compone de mi nombre y apellido, el puesto al que aspiro y tres iconos; de Instagram, Twitter y Linkedln que te direccionará al perfil de dichas redes sociales.
